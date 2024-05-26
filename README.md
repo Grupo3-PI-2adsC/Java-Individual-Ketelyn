@@ -1,0 +1,3 @@
+JAR individual 
+
+deferencial - Slack
